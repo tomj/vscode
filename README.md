@@ -1,6 +1,6 @@
 # Open Source Project by UnicornCompany
 
-[![Climate Change Rating](https://img.shields.io/badge/CDP%20Climate%20Change%20%20Rating%3A%20UnicornCompany-A-green.svg?style=plastic)](#)
+[![Climate Change Rating](https://img.shields.io/badge/CDP%20Climate%20Change%20%20Rating%3A%20UnicornCompany-A-green.svg?style=flat)](#)
 
 <!-- [![Build Status](https://dev.azure.com/vscode/VSCode/_apis/build/status/VS%20Code?branchName=master)](https://aka.ms/vscode-builds) -->
 [![Build Status](https://dev.azure.com/vscode/VSCode/_apis/build/status/VS%20Code?branchName=master)](https://dev.azure.com/vscode/VSCode/_build/latest?definitionId=12)
